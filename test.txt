@@ -1,1 +1,2 @@
 ini text pertama di commit pertama
+ini commit kedua menggunakan master 
